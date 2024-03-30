@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Benvin Lozada / Economics Master's Student"
+title                    : "Benvin Lozada / UVA Economics Master's Student"
 title_separator          : "-"
 name                     : &name "Benvin Lozada"
 description              : &description "Bridge to the Doctorate Fellow at the University of Virginia"
@@ -24,18 +24,14 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Current Bridge to the Doctorate Fellow in the UVA Department of Economics interested in the Economics of Education and Industrial Organization "
   location         : "Charlottesville, Virginia"
   employer         : "University of Virginia"
   uri              : # URL
   email            : "cyf6em@virginia.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=AcDplvIAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +43,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
