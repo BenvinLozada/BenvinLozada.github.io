@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Benvin Lozada"
   pronouns         : "He/Him"  
   bio              : "Current Bridge to the Doctorate Fellow in the UVA Department of Economics interested in the Economics of Education and Industrial Organization "
   location         : "Charlottesville, Virginia"
@@ -52,7 +52,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/benvinlozada/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
