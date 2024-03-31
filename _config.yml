@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Benvin Lozada / UVA Economics Master's Student"
+title                    : "Benvin Lozada"
 title_separator          : "-"
 name                     : &name "Benvin Lozada"
 description              : &description "Bridge to the Doctorate Fellow at the University of Virginia"
