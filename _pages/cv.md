@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF below does not load, you can <u><a href="https://BenvinLozada.github.io/files/Resume_Draft.pdf">download it here.</a></u>
+If the embedded PDF below does not load, you can <u><a href="https://BenvinLozada.github.io/files/CV.pdf">download it here.</a></u>
 <br/>
 
-<embed src="https://BenvinLozada.github.io/files/Resume_Draft.pdf" type="application/pdf" width="100%" />
+<embed src="https://BenvinLozada.github.io/files/CV.pdf" type="application/pdf" width="100%" />
