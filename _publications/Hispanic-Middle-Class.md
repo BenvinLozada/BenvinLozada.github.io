@@ -6,7 +6,7 @@ permalink: /publication/Hispanic-Middle-Class
 excerpt: 'We utilize data from the 2010–2019 Consumer Expenditure Surveys to examine middle-class achievement of English-speaking and non-English-speaking Hispanic households compared to non-Hispanic white households in the United States.'
 date: 2023-05-24
 venue: 'The American Journal of Economics and Sociology'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajes.12521'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/ajes.12521'
 citation: 'Zan, H., Fan, J. X., & Lozada, B. (2023). The economic disparity between Hispanic and non-Hispanic White households: An analysis of middle-class achievement. American Journal of Economics and Sociology, 83, 93–107.'
 ---
 
